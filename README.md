@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **montheraalsayyed@gmail.com**
 
-- ⚡ Fun fact **Insane gaming skills! Add me on steam "Synaptik"**
+- ⚡ Fun fact **Insane gaming skills! Add me on steam "Synaptik" or on Riot Client "WolFyNitrate"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
