@@ -14,7 +14,7 @@
 
 ###
 
-<h4 align="left">- 🌱 I’m currently studying for my Trifecta: CompTIA A+, Network+ and Security+<br><br>- 👨‍💻 All of my projects are available at https://github.com/montheralsayyed?tab=repositories<br><br>- 📫 How to reach me: montheralsayyed.github.io<br><br>- ⚡ Fun fact: Insane gaming skills! Add me on steam "Synaptik" or on Riot Client "WolFyNitrate"</h4>
+<h4 align="left">- 🌱 I’m currently studying for my Trifecta: CompTIA A+, Network+ and Security+<br><br>- 👨‍💻 All of my projects are available at https://github.com/montheralsayyed?tab=repositories<br><br>- 📫 Portfolio: https://montheralsayyed.github.io/<br><br>- ⚡ Fun fact: Insane gaming skills! Add me on steam "Synaptik" or on Riot Client "WolFyNitrate"</h4>
 
 ###
 
